@@ -1,3 +1,1 @@
-<div align="center">
-  <img src="https://github.com/hooni-8/hooni-8/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+[![hooni-8's GitHub stats](https://github-readme-stats.vercel.app/api?username=<유저네임>)](https://github.com/anuraghazra/github-readme-stats)
