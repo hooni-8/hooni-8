@@ -20,3 +20,5 @@
 ---
 ### 📬 Contact Me  
 📧 **Email:** dltkdgns0726@naver.com  
+📝 **Tistory:** [dev-hooni7](https://dev-hooni7.tistory.com/)  
+📝 **Velog:** [dev-hooni](https://velog.io/@dev-hooni/posts)  
